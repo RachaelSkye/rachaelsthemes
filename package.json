@@ -1,0 +1,45 @@
+{
+  "name": "rachaels-theme",
+  "displayName": "Rachael's Theme",
+  "description": "Minimalist light theme",
+  "keywords": [
+    "light",
+    "theme",
+    "minimal",
+    "cute",
+    "feminine",
+    "girly"
+  ],
+  "version": "0.0.1",
+  "publisher": "rbouissey",
+  "author": {
+    "name": "Rachael Bouissey"
+  },
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#eee6e4",
+    "theme": "light"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbouissey/Factsolotl"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "High Tea",
+        "uiTheme": "vs",
+        "path": "./themes/High-Tea-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "vsce": "^1.99.0"
+  }
+}
