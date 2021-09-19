@@ -12,4 +12,4 @@ I made these themes for myself and thought I'd share them.
 
 ### Doctor Jones
 
-<p align="center"><img src="https://i.imgur.com/worx7LY.png" alt="Doctor Jones screenshot"></p>
+<p align="center"><img src="https://i.imgur.com/8bLbpMW.png" alt="Doctor Jones screenshot"></p>
