@@ -155,8 +155,7 @@
       "titleBar.inactiveForeground": "#eee6e4",
       "welcomePage.buttonBackground": "#2ca8b0",
       "welcomePage.buttonHoverBackground": "#F1BDB9",
-      "widget.shadow": "#F1BDB9",
-      
+      "widget.shadow": "#F1BDB9"
   },
   "tokenColors": [
       {

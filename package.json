@@ -1,14 +1,15 @@
 {
-  "name": "rachaels-theme",
-  "displayName": "Rachael's Theme",
-  "description": "Minimalist light theme",
+  "name": "rachaels-themes",
+  "displayName": "Rachael's Themes",
+  "description": "Minimalist light themes",
   "keywords": [
     "light",
     "theme",
     "minimal",
     "cute",
     "feminine",
-    "girly"
+    "girly",
+    "retro"
   ],
   "version": "0.0.1",
   "publisher": "Rachael",
@@ -28,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rbouissey/rachaelstheme"
+    "url": "https://github.com/rbouissey/rachaelsthemes"
   },
   "contributes": {
     "themes": [
@@ -36,6 +37,11 @@
         "label": "High Tea",
         "uiTheme": "vs",
         "path": "./themes/High-Tea-color-theme.json"
+      },
+      {
+        "label": "Doctor Jones",
+        "uiTheme": "vs",
+        "path": "./themes/Doctor-Jones-color-theme.json"
       }
     ]
   },
